@@ -49,6 +49,12 @@ font-weight: lighter;
   color: white;
 }  
 
+@media(max-width: 600px) {
+  #banner {
+    padding: 20px;
+  }
+}
+
 #footer {
   text-align: center;
   padding: 30px;
